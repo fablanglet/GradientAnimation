@@ -1,6 +1,7 @@
 # GradientAnimation
 
 Gradient Animation on UIImageView in Swift
+
 <img src="/GradientAnimation.gif" width="335px" height="600px">
 
 ### Installation
