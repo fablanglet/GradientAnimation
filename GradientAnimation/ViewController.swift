@@ -13,7 +13,7 @@ class ViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view, typically from a nib.
-        let img = LoadingImageView(image: UIImage(named: "bulb"))
+        //let img = LoadingImageView(image: UIImage(named: "bulb"))
     }
 
     override func didReceiveMemoryWarning() {
